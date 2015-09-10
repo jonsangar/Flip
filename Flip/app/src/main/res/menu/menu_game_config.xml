@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/m_player"
+        android:icon="@drawable/ic_player"
+        android:title="@string/menu_player" />
+    <item android:id="@+id/m_howto"
+        android:icon="@drawable/ic_howto"
+        android:title="@string/menu_howto"/>
+    <item android:id="@+id/m_about"
+        android:icon="@drawable/ic_about"
+        android:title="@string/menu_about"/>
+
+</menu>
